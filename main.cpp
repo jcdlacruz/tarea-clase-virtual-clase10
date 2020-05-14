@@ -3,6 +3,7 @@ using namespace std;
 
 void mp();
 void agregarEmpleado();
+void reporte();
 
 int main() {
 	mp();
@@ -17,6 +18,8 @@ void mp(){
 	 	cout << "1.-  Agregar empleado" <<endl;
 	 	cout << "2.-  Generar reporte" <<endl;
 	 	cout << "3.-  Salir" <<endl;
+	 	cout << endl;
+	 	cout << "Seleccione una opcion: " <<endl;
 	 	cin >> i;
 	 	
 	 	switch(i){
@@ -26,7 +29,7 @@ void mp(){
 	 			goto MenuPrincipal;
 	 			break;
  			case 2:
-			 	system("Pause");
+			 	{reporte();}
 	 			system("CLS");
 	 			goto MenuPrincipal;
 	 			break;

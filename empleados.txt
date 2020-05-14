@@ -1,0 +1,3 @@
+2	pedro	esclavo	Produccion	1000
+1	juan	gerente	Administracion	1500
+3	olivia	secretaria	Produccion	2500

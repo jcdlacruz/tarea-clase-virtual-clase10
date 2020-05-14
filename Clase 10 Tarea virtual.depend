@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589477564 source:c:\users\edejuli\desktop\constancias\umg\2020\3er semestre\progra1\clase 10 tarea virtual\main.cpp
+	<iostream>
+
+1589478188 source:c:\users\edejuli\desktop\constancias\umg\2020\3er semestre\progra1\clase 10 tarea virtual\agregarempleado.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
